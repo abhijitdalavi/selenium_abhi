@@ -11,6 +11,8 @@ setup.bat
 ```
 Please install the chromedriver using below link and add the chromedriver.exe to the path 
 
+http://chromedriver.storage.googleapis.com/2.9/chromedriver_win32.zip
+
 after this you can run below command to get the textbox elep
 
 ```
